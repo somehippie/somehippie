@@ -5,9 +5,9 @@ and tech, across A&R, AI training, personal finance and real estate.
 
 ### What I'm building
 
-**[ai-starter-kit][https://github.com/somehippie/ai-starter-kit-digital-tasks](url)** — an
-eight-session, research-grounded course for AI skeptics and AI beginners
-
+**[ai-starter-kit](https://github.com/somehippie/ai-starter-kit-digital-tasks)** — an
+eight-session, research-grounded course for AI skeptics and AI beginners.
+[Read the curriculum](https://github.com/somehippie/ai-starter-kit-digital-tasks/blob/main/docs/ai-starter-kit.md)
 
 **[gods-eye-view](https://github.com/somehippie/gods-eye-view)** — a spy
 satellite simulator in your browser, except the data is real. Live open source
