@@ -15,7 +15,7 @@ spatial intelligence on a photorealistic 3D globe.
 [maptheworld.ai](https://maptheworld.ai/)
 
 **[small-tech-llc](https://github.com/somehippie/small-tech-llc)** — the site for
-my practice. A&R, AI training, Personal Finance, Creative Direction.
+my practice. A&R, AI training, personal finance, creative direction.
 [Live](https://somehippie.github.io/small-tech-llc/)
 
 **[paolo-bonaccorsi](https://github.com/somehippie/paolo-bonaccorsi-re)** —
