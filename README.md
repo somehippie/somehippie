@@ -14,7 +14,7 @@ anyone can use it, and checked against dated sources.
 |---|---|
 | [Home](https://github.com/somehippie/life-starter-kit/tree/main/home) | Improving a home without overspending |
 | [Supplements](https://github.com/somehippie/life-starter-kit/tree/main/supplements) | How to judge evidence, quality seals and labels. No dose advice. |
-| [Drone](https://github.com/somehippie/life-starter-kit/tree/main/drone) | Getting into FPV flying: what to buy, in what order, and the rules |
+| [Drone](https://github.com/somehippie/life-starter-kit/tree/main/hobbies/drone) | Getting into FPV flying: what to buy, in what order, and the rules |
 
 [Browse the modules](https://github.com/somehippie/life-starter-kit#modules)
 
