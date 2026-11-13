@@ -39,6 +39,11 @@ my practice. A&R, AI training, personal finance, creative direction.
 real estate, Fremont and the East Bay.
 [Live](https://somehippie.github.io/paolo-bonaccorsi-re/)
 
+**[privacy-curtain](https://github.com/somehippie/privacy-curtain)** — a no-admin
+Windows privacy overlay in C# and PowerShell: hides an automated session on a
+shared PC and blocks local input, without locking the machine. Awareness, not
+lockout.
+
 ### Elsewhere
 
 [Linktree](https://linktr.ee/pbjelly)
