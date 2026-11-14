@@ -1,7 +1,6 @@
 ## Paolo Bonaccorsi
 
-Business strategist and creative consultant working at the intersection of music
-and tech, across A&R, AI training, personal finance and real estate.
+Business strategist and creative consultant across A&R, AI training, personal finance and real estate.
 
 **New to AI?** Every module includes a file you can paste into an AI assistant
 for advice tailored to you. If that sounds unfamiliar or untrustworthy, start
