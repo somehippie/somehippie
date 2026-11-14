@@ -15,7 +15,7 @@ Windows privacy overlay in C# and PowerShell: hides an automated session on a
 shared PC and blocks local input, without locking the machine. Awareness, not
 lockout.
 
-**[gods-eye-view](https://github.com/somehippie/gods-eye-view)** — a spy
+**[gods-eye-view](https://github.com/somehippie/gods-eye-view)** — bilawalsidhu's spy
 satellite simulator in your browser, except the data is real. Live open source
 spatial intelligence on a photorealistic 3D globe.
 [maptheworld.ai](https://maptheworld.ai/)
