@@ -3,21 +3,6 @@
 Business strategist and creative consultant working at the intersection of music
 and tech, across A&R, AI training, personal finance and real estate.
 
-### Start here: Life Starter Kit
-
-**[life-starter-kit](https://github.com/somehippie/life-starter-kit)** — practical
-starter kits for parts of everyday life: what to buy, in what order, what it
-costs, and what tends to go wrong. Written from real experience, generalized so
-anyone can use it, and checked against dated sources.
-
-| Module | What it covers |
-|---|---|
-| [Home](https://github.com/somehippie/life-starter-kit/tree/main/home) | Improving a home without overspending |
-| [Supplements](https://github.com/somehippie/life-starter-kit/tree/main/supplements) | How to judge evidence, quality seals and labels. No dose advice. |
-| [Drone](https://github.com/somehippie/life-starter-kit/tree/main/hobbies/drone) | Getting into FPV flying: what to buy, in what order, and the rules |
-
-[Browse the modules](https://github.com/somehippie/life-starter-kit#modules)
-
 **New to AI?** Every module includes a file you can paste into an AI assistant
 for advice tailored to you. If that sounds unfamiliar or untrustworthy, start
 with the **[AI Starter Kit](https://github.com/somehippie/ai-starter-kit-digital-tasks)**:
