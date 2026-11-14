@@ -17,8 +17,8 @@ lockout.
 
 **[gods-eye-view](https://github.com/somehippie/gods-eye-view)** — a spy
 satellite simulator in your browser, except the data is real. Live open source
-spatial intelligence on a photorealistic 3D globe. Created by bilawalsidhu, this repo adds SF Bay Area Specific API's
-[maptheworld.ai](https://maptheworld.ai/)
+spatial intelligence on a photorealistic 3D globe. Created by [bilawalsidhu](https://maptheworld.ai/), this repo adds SF Bay Area Specific API's
+
 
 **[small-tech-llc](https://github.com/somehippie/small-tech-llc)** — the site for
 my practice. A&R, AI training, personal finance, creative direction.
